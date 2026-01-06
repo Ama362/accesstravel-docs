@@ -1,0 +1,6 @@
+= Overview
+
+This page proves Antora is reading my local AsciiDoc files.
+
+== Confirmation
+If this text appears in the browser, the setup is correct.
