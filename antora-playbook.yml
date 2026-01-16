@@ -1,6 +1,8 @@
 site:
   title: Antora Docs
-  start_page: module_one::overview.adoc
+  start_page: module-one:module_one:index.adoc
+
+
 
 content:
   sources:

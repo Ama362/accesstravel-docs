@@ -1,0 +1,57 @@
+= Getting Started
+
+Welcome to the *Module One Documentation*.
+
+This page helps you get started with the basics and shows how content is written using AsciiDoc and rendered with Antora.
+
+== Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+* Node.js (LTS version)
+* npm
+* Git
+* Visual Studio Code (recommended)
+
+== Project Structure
+
+The documentation follows the standard Antora structure:
+
+[source] 
+----
+docs/
+├── antora.yml
+└── modules/
+    └── module_one/
+        ├── nav.adoc
+        └── pages/
+            ├── index.adoc
+            └── gettingstarted.adoc
+----
+
+== Writing Your First Page
+
+To add content:
+
+. Navigate to the `pages` directory
+. Create a new `.adoc` file
+. Write content using AsciiDoc syntax
+. Regenerate the site using Antora
+
+Example command:
+
+[source,bash]
+----
+npx antora antora-playbook.yml
+----
+
+== Next Steps
+
+After getting started, you can:
+
+* Add more documentation pages
+* Update navigation links
+* Customize the Antora UI
+* Publish your site using GitHub Pages
+
+You are now ready to continue building your documentation site.

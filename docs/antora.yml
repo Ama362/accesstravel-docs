@@ -1,0 +1,5 @@
+name: module-one
+title: Module One Docs
+version: 1.0
+nav:
+  - modules/module_one/nav.adoc
