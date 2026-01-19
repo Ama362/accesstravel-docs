@@ -1,57 +1,74 @@
-= Getting Started
+= Getting Started with AccessTravel
 
-Welcome to the *Module One Documentation*.
+AccessTravel helps travelers with accessibility needs plan and navigate trips across air, sea, and road transportation.
+This guide walks you through the basic steps required to start using the platform effectively.
 
-This page helps you get started with the basics and shows how content is written using AsciiDoc and rendered with Antora.
+By the end of this guide, you will understand how to create an account, explore accessible travel options, and use accessibility information to make informed travel decisions.
 
 == Prerequisites
 
-Before you begin, ensure you have the following installed:
+Before you begin, ensure that you have:
 
-* Node.js (LTS version)
-* npm
-* Git
-* Visual Studio Code (recommended)
+* A stable internet connection
+* A modern web browser (Chrome, Firefox, Safari, or Edge)
+* A valid email address for account registration
 
-== Project Structure
+No prior technical knowledge is required.
 
-The documentation follows the standard Antora structure:
+== Step 1: Create an AccessTravel Account
 
-[source] 
-----
-docs/
-├── antora.yml
-└── modules/
-    └── module_one/
-        ├── nav.adoc
-        └── pages/
-            ├── index.adoc
-            └── gettingstarted.adoc
-----
+To get started:
 
-== Writing Your First Page
+. Visit the AccessTravel platform
+. Select *Sign Up*
+. Enter your email address and create a secure password
+. Confirm your email address using the verification link sent to your inbox
 
-To add content:
+Once verified, you can sign in to your dashboard.
 
-. Navigate to the `pages` directory
-. Create a new `.adoc` file
-. Write content using AsciiDoc syntax
-. Regenerate the site using Antora
+== Step 2: Set Up Your Accessibility Preferences
 
-Example command:
+After logging in for the first time, you will be prompted to configure your accessibility preferences.
 
-[source,bash]
-----
-npx antora antora-playbook.yml
-----
+These preferences help AccessTravel tailor results to your needs and may include:
+
+* Mobility requirements
+* Visual or hearing considerations
+* Assistance needs at transport terminals
+* Seating and boarding preferences
+
+You can update these settings at any time from your profile.
+
+== Step 3: Explore Accessible Travel Options
+
+Use the search feature to explore accessible:
+
+* Flights
+* Cruise journeys
+* Bus and ground transportation
+
+Each listing provides accessibility-related details such as:
+
+* Boarding assistance availability
+* Facility accessibility
+* Seating and space accommodations
+* Support services offered by the provider
+
+== Step 4: Review Accessibility Information
+
+AccessTravel aggregates accessibility information from service providers and community contributors.
+Review this information carefully to ensure it aligns with your travel needs.
+
+Where available, user-contributed insights provide additional context about real travel experiences.
 
 == Next Steps
 
-After getting started, you can:
+Once you are comfortable navigating the platform, you can:
 
-* Add more documentation pages
-* Update navigation links
-* Customize the Antora UI
-* Publish your site using GitHub Pages
+* Save favorite routes and providers
+* Contribute accessibility feedback
+* Explore advanced filtering options
+* Learn how AccessTravel maintains accessibility standards
 
-You are now ready to continue building your documentation site.
+To continue, see xref:overview.adoc[Platform Overview].
+

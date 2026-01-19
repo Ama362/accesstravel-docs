@@ -1,0 +1,48 @@
+= Trip Planning Guide
+
+== Introduction
+
+The Trip Planning Guide helps AccessTravel users organize and manage accessible travel itineraries effectively.  
+This guide provides step-by-step instructions to save locations, plan trips, and use accessibility information to make informed travel decisions.
+
+== Saving Accessible Locations
+
+1. Use the search bar to find accessible locations.
+2. Apply filters according to your accessibility preferences.
+3. Click *Save* on any location you want to include in your trip plan.
+4. Access saved locations from your dashboard.
+
+== Building a Trip
+
+1. Navigate to *My Trips*.
+2. Click *Create New Trip*.
+3. Add saved locations in the desired order.
+4. Review accessibility details for each location.
+5. Save or update your trip as needed.
+
+== Editing or Updating a Trip
+
+* You can reorder locations by dragging them in the trip editor.
+* Remove locations by selecting *Remove*.
+* Update notes and accessibility observations for each location.
+* Changes are automatically saved in your account.
+
+== Sharing Your Trip
+
+* You can share trip plans with other registered users.
+* Shared trips respect your accessibility preferences.
+* Recipients see all accessibility information you included.
+
+== Tips for Effective Trip Planning
+
+* Double-check accessibility details for transport and accommodations.
+* Include contingency options for unexpected barriers.
+* Encourage fellow travelers to provide reviews to improve community data.
+
+== Next Steps
+
+After planning trips, you can:
+
+* Contribute accessibility reviews for visited locations
+* Explore additional platform features, such as filtering by specific accessibility criteria
+* Return to xref:gettingstarted.adoc[Getting Started] if you need a refresher

@@ -1,0 +1,40 @@
+= Frequently Asked Questions
+:page-navtitle: FAQ
+:page-description: Common questions and answers about using the AccessTravel platform.
+
+This section answers common questions about AccessTravel, including how the platform works, who it is for, and how accessibility information is managed.
+
+== What is AccessTravel?
+
+AccessTravel is a platform that provides structured and reliable accessibility information for travel destinations, accommodations, and experiences. It helps travelers make informed decisions based on real accessibility needs.
+
+== Who can use AccessTravel?
+
+AccessTravel can be used by:
+
+* Travelers with accessibility needs
+* Caregivers and companions
+* Travel agencies and tourism providers
+* Contributors who add or review accessibility information
+
+Some features may require an account, depending on your role.
+
+== How is accessibility information verified?
+
+Accessibility information on AccessTravel is contributed by users and reviewed through defined workflows. Contributors submit data, which may be reviewed or validated to ensure accuracy and consistency before it is published.
+
+== Does AccessTravel guarantee full accessibility?
+
+No. AccessTravel provides information to help users make informed decisions, but it does not guarantee that a location or service will meet every individual accessibility requirement. Users are encouraged to review details carefully and contact service providers when necessary.
+
+== How does AccessTravel support accessibility standards?
+
+The platform is designed with accessibility in mind and follows recognized standards such as the Web Content Accessibility Guidelines (WCAG). Accessibility is continuously improved as the platform evolves.
+
+== Can I contribute to AccessTravel?
+
+Yes. AccessTravel supports contributors who help expand and maintain accessibility information. Contribution guidelines explain how to submit content responsibly and accurately.
+
+== Where should new users start?
+
+New users should begin with the *Getting Started* section to understand the platform’s core features and how to navigate the documentation.

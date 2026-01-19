@@ -1,0 +1,82 @@
+= Glossary
+:page-navtitle: Glossary
+:page-description: Definitions of key terms used throughout the AccessTravel documentation.
+
+This glossary defines key terms used in the AccessTravel platform and documentation. It is intended to help readers understand terminology related to accessibility, roles, and platform features.
+
+== Accessibility
+
+The degree to which a product, service, or environment can be used by people with diverse abilities, including mobility, visual, auditory, and cognitive needs.
+
+== Accessibility Information
+
+Structured details describing accessibility features of destinations, accommodations, or services, such as step-free access, elevators, or assistive technologies.
+
+== Accessibility Statement
+
+A document that explains the platform’s approach to accessibility, known limitations, and ongoing improvement efforts.
+
+== Contributor
+
+A registered user who submits or updates accessibility information on the AccessTravel platform.
+
+== Content Review
+
+The process of checking submitted accessibility information for accuracy, clarity, and compliance with platform guidelines before publication.
+
+== Platform
+
+The AccessTravel web application used to collect, manage, and display accessibility-related travel information.
+
+== Role
+
+A set of permissions assigned to a user that determines what actions they can perform on the platform.
+
+== Permissions
+
+Specific actions that a user is allowed to perform, such as creating, editing, or reviewing content.
+
+== WCAG (Web Content Accessibility Guidelines)
+
+An internationally recognized set of guidelines developed by the W3C to make web content more accessible to people with disabilities.
+= Glossary
+:page-navtitle: Glossary
+:page-description: Definitions of key terms used throughout the AccessTravel documentation.
+
+This glossary defines key terms used in the AccessTravel platform and documentation. It is intended to help readers understand terminology related to accessibility, roles, and platform features.
+
+== Accessibility
+
+The degree to which a product, service, or environment can be used by people with diverse abilities, including mobility, visual, auditory, and cognitive needs.
+
+== Accessibility Information
+
+Structured details describing accessibility features of destinations, accommodations, or services, such as step-free access, elevators, or assistive technologies.
+
+== Accessibility Statement
+
+A document that explains the platform’s approach to accessibility, known limitations, and ongoing improvement efforts.
+
+== Contributor
+
+A registered user who submits or updates accessibility information on the AccessTravel platform.
+
+== Content Review
+
+The process of checking submitted accessibility information for accuracy, clarity, and compliance with platform guidelines before publication.
+
+== Platform
+
+The AccessTravel web application used to collect, manage, and display accessibility-related travel information.
+
+== Role
+
+A set of permissions assigned to a user that determines what actions they can perform on the platform.
+
+== Permissions
+
+Specific actions that a user is allowed to perform, such as creating, editing, or reviewing content.
+
+== WCAG (Web Content Accessibility Guidelines)
+
+An internationally recognized set of guidelines developed by the W3C to make web content more accessible to people with disabilities.

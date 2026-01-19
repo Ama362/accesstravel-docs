@@ -1,3 +1,42 @@
-= Overview
+= Product Overview
+:page-navtitle: Overview
+:page-description: Overview of the AccessTravel platform, its purpose, users, and key features.
 
-This is the overview page for Module One.
+AccessTravel is a web-based platform designed to make travel planning more inclusive by providing reliable, detailed, and verified accessibility information for destinations, accommodations, and experiences.
+
+The platform helps travelers with accessibility needs make informed decisions while enabling contributors and partners to share accurate accessibility data in a structured and transparent way.
+
+== Who AccessTravel Is For
+
+AccessTravel is built for multiple user groups:
+
+* *Travelers with accessibility needs* who require trustworthy information about accessibility features before planning a trip.
+* *Caregivers and companions* assisting travelers with mobility, sensory, or cognitive needs.
+* *Travel agencies and tourism providers* seeking to present accurate accessibility details for their services.
+* *Contributors and reviewers* who validate and maintain accessibility data on the platform.
+
+== The Problem AccessTravel Solves
+
+Many travel platforms lack consistent, verified accessibility information. As a result, travelers often face:
+
+* Incomplete or misleading accessibility claims
+* Uncertainty about real-world accessibility conditions
+* Limited visibility into accessibility features beyond basic checklists
+
+AccessTravel addresses these challenges by standardizing how accessibility information is collected, reviewed, and displayed.
+
+== Key Features
+
+AccessTravel provides the following core capabilities:
+
+* Structured accessibility listings for destinations and services
+* Contributor-driven content with review and validation workflows
+* Clear roles and permissions to maintain data integrity
+* Accessibility-focused design aligned with WCAG principles
+* Transparent accessibility statements to set user expectations
+
+== How to Use This Documentation
+
+This documentation explains how to use, contribute to, and manage the AccessTravel platform.
+
+If you are new to AccessTravel, start with the *Getting Started* section to learn how to navigate the platform and understand its core concepts.

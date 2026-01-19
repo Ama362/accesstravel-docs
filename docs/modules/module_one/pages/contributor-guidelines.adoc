@@ -1,0 +1,66 @@
+= Contributor Guidelines
+
+== Introduction
+
+AccessTravel relies on community contributions to maintain accurate and up-to-date accessibility information.  
+This guide explains how users can contribute reviews, photos, and accessibility data responsibly and effectively.
+
+== Who Can Contribute
+
+Any registered user of AccessTravel can contribute, including:
+
+* Travelers who have visited a location
+* Accessibility advocates
+* Partner service providers
+* Admin-approved contributors
+
+== How to Submit a Contribution
+
+1. Navigate to the location page you want to review.
+2. Click *Add Review* or *Submit Accessibility Information*.
+3. Fill in the structured form with:
+
+   * Accessibility features observed (e.g., wheelchair access, braille signage)
+   * Photos documenting accessibility aspects
+   * Notes on any barriers or helpful accommodations
+
+4. Submit the contribution for review.
+
+== Content Guidelines
+
+To ensure consistency and clarity, contributors should:
+
+* Use clear, factual language
+* Avoid subjective or biased statements
+* Follow standard spelling, grammar, and capitalization
+* Focus on accessibility-related details
+* Respect privacy of individuals and organizations
+
+== Review and Approval
+
+* All contributions are reviewed by Admins before they are publicly visible.
+* Contributors may receive feedback to clarify or improve submissions.
+* Approved contributions become part of AccessTravel’s verified accessibility database.
+
+== Best Practices
+
+* Take photos that clearly show accessibility features.
+* Provide measurements or exact details when possible (e.g., doorway width, ramp slope).
+* Update older contributions if accessibility features change.
+* Check other user submissions to avoid duplication.
+
+== Reporting Issues
+
+If you notice incorrect or inappropriate content:
+
+* Use the *Report Issue* button on the location page
+* Provide details about the problem
+* Admins will review and act as necessary
+
+== Next Steps
+
+After contributing:
+
+* Monitor your submissions for feedback from Admins
+* Explore xref:trip-planning.adoc[Trip Planning Guide] to use your contributions in real travel planning
+* Continue learning about accessibility standards to improve the quality of contributions

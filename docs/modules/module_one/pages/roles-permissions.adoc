@@ -1,0 +1,68 @@
+= Roles & Permissions
+
+== Introduction
+
+AccessTravel provides different roles to manage users, accessibility content, and travel data.  
+This document explains the available roles, their permissions, and how they interact with the platform.
+
+== User Roles
+
+The platform supports three main user roles:
+
+*Traveler*  
+- Can search for accessible travel options  
+- Can save trips and locations  
+- Can submit accessibility reviews  
+- Can update personal accessibility preferences  
+
+*Admin*  
+- Can manage user accounts and access levels  
+- Can review and approve user-submitted content  
+- Can configure platform settings  
+- Can monitor reports and analytics  
+
+*Partner / Service Provider*  
+- Can update accessibility information for their locations  
+- Can respond to user reviews  
+- Can submit schedules or availability changes  
+
+== Permissions Matrix
+
+The table below summarizes permissions by role:
+
+[cols="1,1,1,1", options="header"]
+|===
+| Feature | Traveler | Admin | Partner
+
+| Search accessible locations
+| ✓ | ✓ | ✓
+
+| Save trips
+| ✓ | ✓ | ✓
+
+| Submit reviews
+| ✓ | ✓ | 
+
+| Approve content
+|  | ✓ | 
+
+| Configure platform
+|  | ✓ | 
+
+| Update accessibility data
+|  |  | ✓
+|===
+
+
+== Notes
+
+* Travelers cannot modify other users' content.  
+* Admin have full control over content and user management.  
+* Partners are limited to their own location data.
+
+== Next Steps
+
+After understanding roles and permissions, refer to:
+
+* xref:gettingstarted.adoc[Getting Started]  
+* xref:trip-planning.adoc[Trip Planning Guide]
