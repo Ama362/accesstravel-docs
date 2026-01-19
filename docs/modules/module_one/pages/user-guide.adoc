@@ -1,0 +1,27 @@
+= User Guide
+:page-navtitle: User Guide
+:page-description: Central guide for using the AccessTravel platform.
+
+The User Guide helps travelers understand how to use AccessTravel effectively, from account setup to trip planning.
+
+== What You Can Do
+
+With AccessTravel, you can:
+
+* Search for destinations with accessibility information
+* Review accessibility details and limitations
+* Plan trips based on your individual needs
+* Contribute accessibility feedback
+* Reference FAQs and glossary for help
+
+== Sections
+
+Use the following sections to navigate the platform:
+
+* xref:gettingstarted.adoc[Getting Started]
+* xref:trip-planning.adoc[Trip Planning]
+* xref:faq.adoc[Frequently Asked Questions]
+
+== Audience
+
+This guide is intended for travelers, caregivers, and companions who want to use AccessTravel to make informed travel decisions.

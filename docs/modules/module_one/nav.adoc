@@ -7,3 +7,4 @@
 * xref:faq.adoc[FAQ]
 * xref:glossary.adoc[Glossary]
 * xref:contributor-guidelines.adoc[Contributor Guidelines]
+* xref:user-guide.adoc[User Guide]
