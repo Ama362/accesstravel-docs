@@ -14,10 +14,13 @@ The workflow ensures that accessibility requirements are respected at every stag
 
 === 1. User Input Collection
 
-Users provide trip details, including:
+Users provide trip details, including
 - Departure and destination locations
+
 - Travel dates
+
 - Preferred transport mode (air, rail, road, sea)
+
 - Accessibility requirements (e.g., wheelchair access, visual assistance)
 
 These inputs are validated before processing begins.
@@ -26,7 +29,9 @@ These inputs are validated before processing begins.
 
 The system matches user requirements against:
 - Transport provider accessibility metadata
+
 - Location-specific accessibility information
+
 - Known service limitations
 
 If no suitable options are found, the system prompts the user to adjust preferences.
@@ -35,7 +40,9 @@ If no suitable options are found, the system prompts the user to adjust preferen
 
 AccessTravel evaluates:
 - Route feasibility
+
 - Accessibility support across transfers
+
 - Availability of assistance services
 
 Multiple travel options may be generated and ranked.
@@ -44,7 +51,9 @@ Multiple travel options may be generated and ranked.
 
 The platform generates a prioritized list of travel options, highlighting:
 - Accessibility features
+
 - Known limitations
+
 - Required advance arrangements
 
 Recommendations are presented clearly to support informed decision-making.
@@ -53,7 +62,9 @@ Recommendations are presented clearly to support informed decision-making.
 
 Users review suggested trips and can:
 - Save options for later
+
 - Modify accessibility preferences
+
 - Proceed with external booking providers
 
 == Error Handling and Edge Cases

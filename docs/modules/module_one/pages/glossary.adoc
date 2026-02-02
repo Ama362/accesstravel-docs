@@ -2,7 +2,7 @@
 :page-navtitle: Glossary
 :page-description: Definitions of key terms used throughout the AccessTravel documentation.
 
-This glossary defines key terms used in the AccessTravel platform and documentation. It is intended to help readers understand terminology related to accessibility, roles, and platform features.
+This glossary defines key terms used in the AccessTravel documentation. It is intended to help readers understand terminology related to accessibility, roles, and platform features.
 
 == Accessibility
 

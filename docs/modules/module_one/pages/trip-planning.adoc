@@ -1,6 +1,5 @@
 = Trip Planning Guide
 
-== Introduction
 
 The Trip Planning Guide helps AccessTravel users organize and manage accessible travel itineraries effectively.  
 This guide provides step-by-step instructions to save locations, plan trips, and use accessibility information to make informed travel decisions.

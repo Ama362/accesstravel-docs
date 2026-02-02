@@ -1,4 +1,4 @@
-# AccessTravel Documentation (Antora)
+# AccessTravel Documentation
 
 This repository contains the documentation for **AccessTravel**, a sample SaaS platform designed to provide reliable accessibility information for travel planning.
 

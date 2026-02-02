@@ -2,9 +2,9 @@
 :page-navtitle: Overview
 :page-description: Overview of the AccessTravel platform, its purpose, users, and key features.
 
-AccessTravel is a web-based platform designed to make travel planning more inclusive by providing reliable, detailed, and verified accessibility information for destinations, accommodations, and experiences.
+y providing reliable, detailed, and verified accessibility information for destinations, accommodations, and experiences.AccessTravel is a web-based platform designed to make travel planning more inclusive b
 
-The platform helps travelers with accessibility needs make informed decisions while enabling contributors and partners to share accurate accessibility data in a structured and transparent way.
+The platform helps travelers with accessibility needs, make informed decisions while enabling contributors and partners to share accurate accessibility data in a structured and transparent way.
 
 == Who AccessTravel Is For
 

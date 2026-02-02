@@ -1,6 +1,5 @@
 = Contributor Guidelines
 
-== Introduction
 
 AccessTravel relies on community contributions to maintain accurate and up-to-date accessibility information.  
 This guide explains how users can contribute reviews, photos, and accessibility data responsibly and effectively.

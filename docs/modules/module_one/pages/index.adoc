@@ -1,10 +1,8 @@
-image::accesstravel-logo.png[AccessTravel logo, align=center, width=300]
-
-
-
 Welcome to the **AccessTravel** documentation portal.
 
 AccessTravel is a SaaS platform designed to help travelers with disabilities and accessibility needs plan, book, and experience trips with confidence across air, sea, and ground transportation.
+
+
 
 == What AccessTravel Does
 
@@ -15,6 +13,8 @@ AccessTravel helps users:
 * Reduce uncertainty and travel stress for people with disabilities
 * Enable service providers to share accessibility data responsibly
 
+
+
 == Who This Documentation Is For
 
 This documentation is intended for:
@@ -23,6 +23,8 @@ This documentation is intended for:
 * Accessibility advocates and contributors
 * Partner transport providers
 * Product and support teams
+
+
 
 == Get Started
 

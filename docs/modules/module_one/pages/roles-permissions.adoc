@@ -1,6 +1,5 @@
 = Roles & Permissions
 
-== Introduction
 
 AccessTravel provides different roles to manage users, accessibility content, and travel data.  
 This document explains the available roles, their permissions, and how they interact with the platform.

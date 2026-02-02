@@ -2,9 +2,9 @@
 
 
 AccessTravel helps travelers with accessibility needs plan and navigate trips across air, sea, and road transportation.
-This guide walks you through the basic steps required to start using the platform effectively.
+This document walks you through the basic steps required to start using the platform effectively.
 
-By the end of this guide, you will understand how to create an account, explore accessible travel options, and use accessibility information to make informed travel decisions.
+By the end of this document, you will understand how to create an account, explore accessible travel options, and use accessibility information to make informed travel decisions.
 
 == Prerequisites
 

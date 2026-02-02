@@ -37,4 +37,4 @@ Yes. AccessTravel supports contributors who help expand and maintain accessibili
 
 == Where should new users start?
 
-New users should begin with the *Getting Started* section to understand the platform’s core features and how to navigate the documentation.
+New users should begin with the xref:gettingstarted.adoc[Getting Started] section to understand the platform’s core features and how to navigate the documentation.
