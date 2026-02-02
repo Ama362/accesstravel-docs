@@ -1,6 +1,4 @@
-= AccessTravel Documentation
-
-image:accesstravel-overview.jpg[AccessTravel Logo, link="images/accesstravel-overview.jpg", align=center, width=900]
+image::accesstravel-logo.png[AccessTravel logo, align=center, width=300]
 
 
 

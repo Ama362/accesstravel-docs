@@ -1,8 +1,6 @@
 site:
-  title: Antora Docs
+  title: AccessTravel Documentation
   start_page: module-one:module_one:index.adoc
-
-
 
 content:
   sources:

@@ -1,5 +1,6 @@
 = Getting Started with AccessTravel
 
+
 AccessTravel helps travelers with accessibility needs plan and navigate trips across air, sea, and road transportation.
 This guide walks you through the basic steps required to start using the platform effectively.
 
@@ -19,7 +20,7 @@ No prior technical knowledge is required.
 
 To get started:
 
-. Visit the AccessTravel platform
+. Visit the AccessTravel platform https://accesstravel-m999qdmvpai.expo.app
 . Select *Sign Up*
 . Enter your email address and create a secure password
 . Confirm your email address using the verification link sent to your inbox
