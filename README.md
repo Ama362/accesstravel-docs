@@ -15,6 +15,7 @@ AccessTravel is a conceptual accessibility-focused travel platform. The document
 - Accessibility statements and compliance considerations
 - Roles and permissions
 - FAQs and glossary
+- Trip Planning Workflow
 - Contributor guidelines
 
 This project was created as part of a technical writing portfolio to demonstrate documentation best practices and docs-as-code workflows.
