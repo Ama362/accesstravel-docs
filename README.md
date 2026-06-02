@@ -45,5 +45,3 @@ The available site will be generated in:
 ```bash
 build/site/index.html
 
-
-You can also view the live site (GitHub Pages) once deployed.
